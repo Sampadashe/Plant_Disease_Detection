@@ -19,6 +19,9 @@ You can download the dataset manually or by using the Kaggle API as described be
    pip install kaggle
    
 🚀 Running the App
+
 To launch the application and see the output:
-python app.py
+  ```bash
+  python app.py
+
 This will start the application, typically on http://127.0.0.1:5000 if using Flask.
